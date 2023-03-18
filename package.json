@@ -20,6 +20,6 @@
   },
   "devDependencies": {
     "concurrently": "^7.6.0",
-    "webhookthing": "^0.5.0"
+    "webhookthing": "latest"
   }
 }
